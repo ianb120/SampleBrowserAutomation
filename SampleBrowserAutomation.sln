@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserControls", "SampleBrowserAutomation\BrowserControls.csproj", "{903E87FA-5C96-4A1C-A5B5-786D42A9E626}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTests", "SimpleTests\SimpleTests.csproj", "{C200B6DF-24DE-4DAF-9CBA-F18AFABAFEFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{903E87FA-5C96-4A1C-A5B5-786D42A9E626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{903E87FA-5C96-4A1C-A5B5-786D42A9E626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{903E87FA-5C96-4A1C-A5B5-786D42A9E626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C200B6DF-24DE-4DAF-9CBA-F18AFABAFEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C200B6DF-24DE-4DAF-9CBA-F18AFABAFEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C200B6DF-24DE-4DAF-9CBA-F18AFABAFEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C200B6DF-24DE-4DAF-9CBA-F18AFABAFEFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

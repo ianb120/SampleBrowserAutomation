@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BrowserControls
 {
-    public class Window
+    public class WindowInfo
     {
     }
 }

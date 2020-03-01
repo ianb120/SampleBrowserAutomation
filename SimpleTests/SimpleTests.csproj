@@ -60,6 +60,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PageObjects\PageObjects.csproj">
+      <Project>{b61d34e0-444f-47d7-9a1a-496f25d09d2c}</Project>
+      <Name>PageObjects</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SampleBrowserAutomation\BrowserControls.csproj">
       <Project>{903e87fa-5c96-4a1c-a5b5-786d42a9e626}</Project>
       <Name>BrowserControls</Name>
